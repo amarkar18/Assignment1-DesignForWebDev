@@ -101,7 +101,7 @@ Test Case 2 (Missing Fields)
 👉 Output: “Please fill all required fields!”
  
  Test Case 3 (Invalid Email)
-•	Email: john@abc
+•	Email: amar@abc
 👉 Output: “Please enter a valid email address.”
  
 #4 - Algorithm / Process:
